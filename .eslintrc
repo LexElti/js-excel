@@ -4,7 +4,14 @@
 		"semi": "off",
 		"arrow-parens": "off",
 		"comma-dangle": "off",
-		"require-jsdoc": "off"
+		"require-jsdoc": "off",
+		"linebreak-style": "off",
+		"eol-last": "off",
+		"no-tabs": "off",
+		"indent": "off",
+		"no-trailing-spaces": "off",
+		"operator-linebreak": "off",
+		"no-debugger": "off"
 	},
 	"env": {
 		"es6": true,
